@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nubby93
 - 👀 I’m interested in Web Development and UI/UX Design
-- 🌱 I’m currently learning JS/React
+- 🌱 I’m currently learning UX Design
 - 💞️ I’m looking to collaborate on ANYTHING. No, really. Anything. I am always eager to help someone and happy to learn something new.
 - 📫 How to reach me: Telegram (@Nubby) or Linkedin (@Iulian Pistol)
 
